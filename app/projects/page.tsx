@@ -6,6 +6,7 @@ import "@/app/projects/base.css"
 const ComponentName = () => {        
     return (
         <>
+
         <div className="rotate">
           <main data-scroll-container="">
             <div className="content">
